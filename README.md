@@ -50,3 +50,5 @@ Some key tasks completed:
 SELECT Vehicle_Type, AVG(Ride_Distance) AS Average_Distance
 FROM ola_booking
 GROUP BY Vehicle_Type;
+
+📊 Download the full Power BI Dashboard: [ola_dashboard.pbix](./ola_dashboard.pbix)
